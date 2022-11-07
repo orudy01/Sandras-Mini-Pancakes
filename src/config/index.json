@@ -1,57 +1,48 @@
 {
   "company": {
     "name": "React landing page 2021",
-    "logo": "/assets/images/logo.png"
+    "logo": "/assets/images/pancake-logo.png"
   },
   "navigation": [
     {
-      "name": "Product",
+      "name": "About",
       "href": "product"
     },
     {
-      "name": "Features",
-      "href": "features"
-    },
-
-    {
-      "name": "Pricing",
+      "name": "Menu",
       "href": "pricing"
-    },
-    {
-      "name": "About",
-      "href": "about"
     }
   ],
   "callToAction": {
-    "text": "Get started",
-    "href": "#"
+    "text": "Contact Us",
+    "href": "mailto:Sandrasminipancakes@gmail.com?subject=I want mini pancakes!"
   },
   "mainHero": {
     "title": "Sandra's",
     "subtitle": "Mini Pancakes.",
-    "description": "The perfect treat for any special occasion",
-    "img": "/assets/images/happyTeam.jpeg",
+    "description": "The perfect treat for any special occasion!",
+    "img": "/assets/images/main-pancakes.jpg",
     "primaryAction": {
-      "text": "Book Us Today!",
-      "href": "#"
+      "text": "Book Us!",
+      "href": "mailto:Sandrasminipancakes@gmail.com?subject=I want mini pancakes!&body=(Insert date of event and number of guest here!)"
     },
     "secondaryAction": {
-      "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "text": "Our Instagram",
+      "href": "https://www.instagram.com/sandrasminipancakes/"
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Hello Sweet Tooth!",
     "items": [
       {
         "title": "A plug n play template",
         "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
-        "img": "/assets/images/product1.jpg"
+        "img": "/assets/images/plated-mini.jpg"
       },
       {
         "title": "Make it your own!",
         "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
-        "img": "/assets/images/product2.jpg"
+        "img": "/assets/images/setup.jpg"
       }
     ]
   },
@@ -83,7 +74,7 @@
     ]
   },
   "pricing": {
-    "title": "Pricing",
+    "title": "Full Menu",
     "items": [
       {
         "name": "Free",
@@ -124,28 +115,13 @@
   "about": {
     "sections": [
       {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
+        "name": "Contact Us",
+        "href": "mailto:Sandrasminipancakes@gmail.com?subject=I want mini pancakes!",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       }
     ],
     "socialMedia": {
-      "github": "https://github.com/issaafalkattan",
+      "instagram": "https://www.instagram.com/sandrasminipancakes/",
       "twitter": "https://twitter.com/issaafkattan",
       "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
     }
