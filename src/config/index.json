@@ -32,16 +32,16 @@
     }
   },
   "product": {
-    "title": "Hello Sweet Tooth!",
+    "title": "Hello Sweet Tooth...",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "title": "Simple Ingredients, Delicious Taste",
+        "description": "Homemade batter flipped to perfection. With plenty of delicious toppings and syrups to choose from!",
         "img": "/assets/images/plated-mini.jpg"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "title": "Support The Dream!",
+        "description": "Sandra's Mini Pancakes is a passion project started early in 2022. We love to cater events all across Orange County, Inland Empire, and LA County. The dream is simple deliver delicious pancakes!",
         "img": "/assets/images/setup.jpg"
       }
     ]
@@ -77,37 +77,33 @@
     "title": "Full Menu",
     "items": [
       {
-        "name": "Free",
-        "price": "$0",
-        "priceDetails": "for one user",
+        "name": "Syrups",
+        "price": "",
+        "priceDetails": "",
         "features": [
-          "1 user",
-          "Basic Support",
-          "1 GB of storage",
-          "Email support"
+          "Chocolate",
+          "Caramel",
+          "Strawberry",
+          "Maple",
+          "Nutella",
+          "Lechera",
+          "Whipped Cream",
+          "Powdered Sugar"
         ]
       },
       {
-        "name": "Pro",
-        "price": "$15",
-        "priceDetails": "per user",
-
+        "name": "Toppings",
+        "price": "",
+        "priceDetails": "",
         "features": [
-          "5 users",
-          "Priority Support",
-          "10 GB of storage",
-          "Phone and Email support"
-        ]
-      },
-      {
-        "name": "Enterprise",
-        "price": "$29",
-        "priceDetails": "per user",
-        "features": [
-          "50 users",
-          "24/7 Support",
-          "100 GB of storage",
-          "Phone and Email support"
+          "Strawberries",
+          "Bananas",
+          "M & M's",
+          "Cocoa Pebbles / Fruity Pebbles",
+          "Lucky Charms",
+          "Sprinkles",
+          "Almonds",
+          "Mini Marshmallows"
         ]
       }
     ]
